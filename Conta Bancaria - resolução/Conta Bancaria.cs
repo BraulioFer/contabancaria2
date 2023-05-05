@@ -11,7 +11,7 @@ namespace Conta_Bancaria___resolução
         // Definição de propriedades
 
         public int NumeroConta { get; }
-        public string NomeTitular { get; set; }
+        public string NomeTitular { get; set; }     //:DD
         public double Saldo { get; private set; }       //lalalele
 
         // Construtores
